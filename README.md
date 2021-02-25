@@ -1,5 +1,5 @@
 # SocLaSentinella
-La Sentinella és un bot de Twitter (inspirat en [@GobiernoAlerta](https://twitter.com/GobiernoAlerta)) que publica els moviments (follows, unfollows i canvis de biografia) de diversos actors polítics i dels comptes institucionals de Catalunya.
+[@SocLaSentinella](https://twitter.com/SocLaSentinella) és un bot de Twitter (inspirat en [@GobiernoAlerta](https://twitter.com/GobiernoAlerta)) que publica els moviments (follows, unfollows i canvis de biografia) de diversos actors polítics i dels comptes institucionals de Catalunya.
 
 ![](img/tweets.gif)
 
