@@ -1,7 +1,15 @@
 # SocLaSentinella
-La Sentinella és un bot de Twitter que publica els moviments (follows, unfollows i canvis de biografia) de diversos actors polítics i dels comptes institucionals de Catalunya.
+La Sentinella és un bot de Twitter (inspirat en [@GobiernoAlerta](https://twitter.com/GobiernoAlerta)) que publica els moviments (follows, unfollows i canvis de biografia) de diversos actors polítics i dels comptes institucionals de Catalunya.
 
 ![](img/tweets.gif)
+
+## FAQS
+#### Cada quant es refresquen les dades?
+Aproximadament cada 2 hores. Per el millor seguiment però, aquestes només és publicaran de 8 a 23h.
+#### D'on surten les dades?
+Les dades provenen de l'API de Twitter. Tota la informació és pública i públicament accessible. Pots comprovar la veracitat des de doesfollow.com
+#### És possible que hi hagi falsos positius?
+Si, un compte de Twitter pot haver bloquejat a una altre que el sistema monitora. En aquest cas, el bot mostrarà que el compte monitorat ha deixat de seguir a l'anterior. No es pot comprovar externament si un compte té bloquejat a un altre.
 
 ## Comptes en observació:
 *Els comptes en observació poden variar segons l'actualitat política i estaran sempre reflexats en aquest repositori.*
