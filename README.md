@@ -57,6 +57,7 @@ Si, un compte de Twitter pot haver bloquejat a una altre que el sistema monitora
 - @Societatcc
 - @perearagones
 - @LauraVilagra
+- @wagensberg
 - @rogertorrent
 - @ernestmaragall
 - @PauVilassar
@@ -65,6 +66,7 @@ Si, un compte de Twitter pot haver bloquejat a una altre que el sistema monitora
 - @MeritxellSerret
 - @LauraBorras
 - @KRLS
+- @JACS_JaumeACS
 - @jcanadellb
 - @elsa_artadi
 - @ramontremosa
@@ -72,8 +74,10 @@ Si, un compte de Twitter pot haver bloquejat a una altre que el sistema monitora
 - @mariadolorsa
 - @carlesral
 - @aramateix
+- @pjuvilla
 - @salvadorilla
 - @Eva_Granados
+- @FerranPedret
 - @Ramon_Espadaler
 - @DGChanca
 - @jessicaalbiach
@@ -83,6 +87,9 @@ Si, un compte de Twitter pot haver bloquejat a una altre que el sistema monitora
 - @alejandroTGN
 - @Lroldansu
 - @Igarrigavaz
+- @MariaEGarciaFu2
+- AntonioGalleg0
+- JGarrigaDomenec
 - @AlbertoTPaneque
 - @jcuixart
 - @jordisanchezp
@@ -109,10 +116,6 @@ Si, un compte de Twitter pot haver bloquejat a una altre que el sistema monitora
 - @AdaColau
 - @LoJoan
 - @nllaurado
-- @JACS_JaumeACS
-- @pjuvilla
-- @FerranPedret
-- @wagensberg
 
 ## Sobre el codi:
 *El codi està en procés de proves temporal. En quant aquest estigui en una versió final quedarà publicat en aquest repositori.*
